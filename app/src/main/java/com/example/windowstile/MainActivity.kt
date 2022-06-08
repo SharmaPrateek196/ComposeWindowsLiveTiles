@@ -169,7 +169,7 @@ fun getImagesLists(): List<TileItem> {
                 "https://demo.sirv.com/nuphar.jpg?w=400",
                 "https://images.pexels.com/photos/4631086/pexels-photo-4631086.jpeg?cs=srgb&dl=pexels-printexstar-11625335.jpg&fm=jpg&w=640&h=427"
             ),
-            0
+            3500
         ),
         TileItem(
             listOf(
@@ -216,7 +216,7 @@ fun getImagesLists(): List<TileItem> {
                 "https://demo.sirv.com/nuphar.jpg?w=400",
                 "https://images.pexels.com/photos/8378108/pexels-photo-8378108.jpeg?cs=srgb&dl=pexels-raquel-8378108.jpg&fm=jpg&w=640&h=960"
             ),
-            0
+            3300
         ),
         TileItem(
             listOf(
